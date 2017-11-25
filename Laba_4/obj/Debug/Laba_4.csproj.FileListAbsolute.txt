@@ -1,0 +1,15 @@
+e:\USB-master\Laba_4\bin\Debug\Laba_4.exe.config
+e:\USB-master\Laba_4\bin\Debug\Laba_4.exe
+e:\USB-master\Laba_4\bin\Debug\Laba_4.pdb
+e:\USB-master\Laba_4\bin\Debug\Chimp.Logging.Core.dll
+e:\USB-master\Laba_4\bin\Debug\MediaDevices.dll
+e:\USB-master\Laba_4\bin\Debug\UsbEject.dll
+e:\USB-master\Laba_4\bin\Debug\Chimp.Logging.Core.xml
+e:\USB-master\Laba_4\bin\Debug\MediaDevices.xml
+e:\USB-master\Laba_4\bin\Debug\UsbEject.xml
+e:\USB-master\Laba_4\obj\Debug\Laba_4.csprojResolveAssemblyReference.cache
+e:\USB-master\Laba_4\obj\Debug\Laba_4.USBView.resources
+e:\USB-master\Laba_4\obj\Debug\Laba_4.Properties.Resources.resources
+e:\USB-master\Laba_4\obj\Debug\Laba_4.csproj.GenerateResource.Cache
+e:\USB-master\Laba_4\obj\Debug\Laba_4.exe
+e:\USB-master\Laba_4\obj\Debug\Laba_4.pdb
